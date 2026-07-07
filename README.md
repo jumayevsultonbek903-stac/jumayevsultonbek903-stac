@@ -1,16 +1,22 @@
-#👋 Assalomu alaykum, men Sultonbek Jumayev
+# 👋 Assalomu alaykum, men Sultonbek Jumayev
 
-<!--
-**jumayevsultonbek903-stac/jumayevsultonbek903-stac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Python Developer
 
-Here are some ideas to get you started:
+- 🐍 Python
+- 🐧 Linux
+- 🌐 HTML, CSS, JavaScript
+- 🔐 Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=jumayevsultonbek903-stac&show_icons=true&theme=chartreuse-dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jumayevsultonbek903-stac&layout=compact&theme=chartreuse-dark)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jumayevsultonbek903-stac&theme=chartreuse-dark)
