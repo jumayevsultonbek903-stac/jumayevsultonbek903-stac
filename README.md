@@ -1,4 +1,4 @@
-## Hi there 👋
+#👋 Assalomu alaykum, men Sultonbek Jumayev
 
 <!--
 **jumayevsultonbek903-stac/jumayevsultonbek903-stac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
